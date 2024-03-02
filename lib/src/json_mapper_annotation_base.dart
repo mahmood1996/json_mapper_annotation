@@ -1,3 +1,7 @@
+final class JsonMapper {
+  const JsonMapper();
+}
+
 final class SerializeToJson {
   const SerializeToJson();
 }
